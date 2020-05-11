@@ -1,0 +1,117 @@
+#body
+{
+	background: url("Images/img-bg.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+
+#container
+{
+	
+	
+	width:99.7%;  
+	height:500px;
+	
+}
+
+h1
+{
+	text-align: center;
+    color: #F8FDFD;
+    display: inline-block;
+	height:10%;
+	margin-left: -1%;
+}
+
+#h1
+{
+	display: inline-block;
+	width: auto;
+    height: auto;
+	margin-left: 40%;
+}
+
+h2
+{
+	text-align: center;
+    color: #F8FDFD;
+    display: inline-block;
+	height:10%;
+	margin-left: 5%;
+}
+
+#h2
+{
+	display: inline-block;
+	width: auto;
+    height: auto;
+	margin-left: 40%;
+}
+
+#header
+{  
+	background-color:#042425;
+	width:99.7%;  
+	height:7%;
+	display: block;
+	margin-top: -10px;
+}
+
+#im
+{
+	width: 100%;
+	
+}
+
+#img
+{
+	width:3%;  
+	height:10%;
+	display: inline-block;
+}
+
+#form
+{	margin-top: 10%;
+    background-color: #F8FDFD;
+    width: 40%;
+    height: 70%;
+    margin-left: 28%;
+}
+
+
+#tete
+{
+
+	background-color: #3addd6;
+	height:5%;
+}
+
+.form-group
+{
+
+	margin-top: 5%;
+	
+	margin-left: 5%;
+}
+
+
+.form-control
+{
+  display: flex;
+  flex-direction: row;
+  border-radius: 5px;
+  border: solid 1px gray; 
+  width: 420px; 
+  
+}
+
+.ic
+{
+	border: solid 1px gray;
+	border-radius: 5px;
+
+}
+
+#quitter
+{
+	margin-left: 60%;
+}
